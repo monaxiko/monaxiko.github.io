@@ -379,6 +379,10 @@ color: #fff;
 img {
    max-width:100%;
 }
+img#footer {
+	width: 200;
+	height: 200;
+}
 
 /* no transition on .isotope container */
 
