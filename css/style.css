@@ -377,7 +377,7 @@ color: #fff;
 	text-decoration:none;
 }
 img {
-   max-width:100%;
+   /* max-width:100%; */
 }
 
 /* no transition on .isotope container */
